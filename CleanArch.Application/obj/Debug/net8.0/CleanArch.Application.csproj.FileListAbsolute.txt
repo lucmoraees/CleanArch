@@ -1,0 +1,15 @@
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll

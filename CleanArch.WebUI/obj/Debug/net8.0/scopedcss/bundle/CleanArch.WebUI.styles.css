@@ -1,0 +1,49 @@
+/* _content/CleanArch.WebUI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-hxqk5jdwpq] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-hxqk5jdwpq] {
+  color: #0077cc;
+}
+
+.btn-primary[b-hxqk5jdwpq] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-hxqk5jdwpq], .nav-pills .show > .nav-link[b-hxqk5jdwpq] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-hxqk5jdwpq] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-hxqk5jdwpq] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-hxqk5jdwpq] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-hxqk5jdwpq] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-hxqk5jdwpq] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

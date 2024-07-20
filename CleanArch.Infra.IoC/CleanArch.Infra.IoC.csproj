@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.6.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.6.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArch.Application\CleanArch.Application.csproj" />
+    <ProjectReference Include="..\CleanArch.Domain\CleanArch.Domain.csproj" />
+    <ProjectReference Include="..\CleanArch.Infra.Data\CleanArch.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
