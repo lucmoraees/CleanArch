@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArch.WebUI
 build_property.RootNamespace = CleanArch.WebUI
-build_property.ProjectDir = D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.WebUI\
+build_property.ProjectDir = D:\Users\lucmo\Documentos\Estudos\Udemy\Arquitetura Limpa\CleanArch\CleanArch.WebUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\lucmo\Documentos\Estudos\Arquitetura Limpa\CleanArch\CleanArch.WebUI
+build_property.MSBuildProjectDirectory = D:\Users\lucmo\Documentos\Estudos\Udemy\Arquitetura Limpa\CleanArch\CleanArch.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Account/Login.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Account/Register.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Create.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Delete.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Details.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Edit.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Index.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Home/Index.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Home/Privacy.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Create.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Delete.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Details.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Edit.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Index.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/Error.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_LoginPartial.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/_ViewImports.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/_ViewStart.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lucmo/Documentos/Estudos/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_Layout.cshtml]
+[D:/Users/lucmo/Documentos/Estudos/Udemy/Arquitetura Limpa/CleanArch/CleanArch.WebUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hxqk5jdwpq

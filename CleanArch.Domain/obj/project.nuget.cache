@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFcIVURZbH4=",
+  "dgSpecHash": "ovbCxf+wKtk=",
   "success": true,
-  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucmo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucmo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

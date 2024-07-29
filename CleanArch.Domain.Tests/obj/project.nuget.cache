@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NV5ieQLOdQ=",
+  "dgSpecHash": "QWDX/JTJ6do=",
   "success": true,
-  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain.Tests\\CleanArch.Domain.Tests.csproj",
+  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain.Tests\\CleanArch.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucmo\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lucmo\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

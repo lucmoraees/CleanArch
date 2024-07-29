@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {}
+    "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {}
   },
   "projects": {
-    "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
+    "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
         "projectName": "CleanArch.Application",
-        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
         "packagesPath": "C:\\Users\\lucmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\obj\\",
+        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "projectName": "CleanArch.Domain",
-        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "packagesPath": "C:\\Users\\lucmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\obj\\",
+        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+    "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "projectName": "CleanArch.Infra.Data",
-        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\lucmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\obj\\",
+        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -239,14 +239,14 @@
         }
       }
     },
-    "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+    "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
         "projectName": "CleanArch.Infra.IoC",
-        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\lucmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\obj\\",
+        "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -264,14 +264,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
-                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
+              "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
+                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
               },
-              "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
               },
-              "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+              "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+                "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               }
             }
           }

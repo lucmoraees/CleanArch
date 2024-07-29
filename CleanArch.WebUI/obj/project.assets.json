@@ -5082,11 +5082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\CleanArch.WebUI.csproj",
+      "projectUniqueName": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\CleanArch.WebUI.csproj",
       "projectName": "CleanArch.WebUI",
-      "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\CleanArch.WebUI.csproj",
+      "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\CleanArch.WebUI.csproj",
       "packagesPath": "C:\\Users\\lucmo\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\obj\\",
+      "outputPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5104,8 +5104,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
-              "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
+            "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+              "projectPath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
             }
           }
         }

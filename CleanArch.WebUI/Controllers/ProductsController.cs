@@ -48,35 +48,32 @@ namespace CleanArch.WebUI.Controllers
         public async Task<IActionResult> Edit(int id)
         {
             if (id == null) return NotFound();
-
             var productDto = await _productService.GetById(id);
 
             if (productDto == null) return NotFound();
 
             var categories = await _categoryService.GetCategories();
-
             ViewBag.CategoryId = new SelectList(categories, "Id", "Name", productDto.CategoryId);
-
+            
             return View(productDto);
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Edit(ProductDTO productDTO)
+        [HttpPost, ActionName("Edit")]
+        public async Task<IActionResult> Edit(ProductDTO productDto)
         {
             if (ModelState.IsValid)
             {
-                await _productService.Update(productDTO);
+                await _productService.Update(productDto);
                 return RedirectToAction(nameof(Index));
             }
-
-            return View(productDTO);
+            return View(productDto);
         }
 
-        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            if (id == null) return NotFound();
+            if (id == null)
+                return NotFound();
 
             var productDto = await _productService.GetById(id);
 
@@ -85,7 +82,7 @@ namespace CleanArch.WebUI.Controllers
             return View(productDto);
         }
 
-        [HttpPost(), ActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _productService.Remove(id);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/fOJgMmASFU=",
+  "dgSpecHash": "i/u2UtN3acA=",
   "success": true,
-  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Arquitetura Limpa\\CleanArch\\CleanArch.API\\CleanArch.API.csproj",
+  "projectFilePath": "D:\\Users\\lucmo\\Documentos\\Estudos\\Udemy\\Arquitetura Limpa\\CleanArch\\CleanArch.API\\CleanArch.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucmo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lucmo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
