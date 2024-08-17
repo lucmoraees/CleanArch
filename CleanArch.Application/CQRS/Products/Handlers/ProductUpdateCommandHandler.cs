@@ -1,9 +1,9 @@
-﻿using CleanArch.Application.Products.Commands;
+﻿using CleanArch.Application.CQRS.Products.Commands;
 using CleanArch.Domain.Entities;
 using CleanArch.Domain.Interfaces;
 using MediatR;
 
-namespace CleanArch.Application.Products.Handlers
+namespace CleanArch.Application.CQRS.Products.Handlers
 {
     public class ProductUpdateCommandHandler : IRequestHandler<ProductUpdateCommand, Product>
     {

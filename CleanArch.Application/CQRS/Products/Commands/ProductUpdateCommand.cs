@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Application.Products.Commands
+namespace CleanArch.Application.CQRS.Products.Commands
 {
     public class ProductUpdateCommand : ProductCommand
     {

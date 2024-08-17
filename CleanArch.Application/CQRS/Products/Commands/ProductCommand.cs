@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Application.Products.Commands
+namespace CleanArch.Application.CQRS.Products.Commands
 {
     public abstract class ProductCommand : IRequest<Product>
     {

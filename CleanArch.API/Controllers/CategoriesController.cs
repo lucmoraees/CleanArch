@@ -1,7 +1,6 @@
 ﻿using CleanArch.Application.DTOs;
 using CleanArch.Application.Interfaces;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArch.API.Controllers

@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using CleanArch.Application.CQRS.Products.Commands;
 using CleanArch.Application.DTOs;
-using CleanArch.Application.Products.Commands;
 using System;
 using System.Collections.Generic;
 using System.Linq;

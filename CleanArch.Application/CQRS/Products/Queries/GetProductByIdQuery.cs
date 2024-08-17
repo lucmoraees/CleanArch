@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Application.Products.Queries
+namespace CleanArch.Application.CQRS.Products.Queries
 {
-    public class GetProductByIdQuery: IRequest<Product>
+    public class GetProductByIdQuery : IRequest<Product>
     {
         public int Id { get; set; }
 

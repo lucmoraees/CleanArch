@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Products.Queries;
+﻿using CleanArch.Application.CQRS.Products.Queries;
 using CleanArch.Domain.Entities;
 using CleanArch.Domain.Interfaces;
 using MediatR;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Application.Products.Handlers
+namespace CleanArch.Application.CQRS.Products.Handlers
 {
     public class GetProductsQueryHandler : IRequestHandler<GetProductsQuery, IEnumerable<Product>>
     {

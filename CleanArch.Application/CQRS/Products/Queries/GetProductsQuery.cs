@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Application.Products.Queries
+namespace CleanArch.Application.CQRS.Products.Queries
 {
     public class GetProductsQuery : IRequest<IEnumerable<Product>>
     {
